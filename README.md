@@ -1,6 +1,6 @@
 ## LLM-API Calling:
 ### 1. Java Code Review
-### 2. Java C0de Review with history
+### 2. Java Code Review with history
 ### 3. Java Code review with FastAPIs
 
 
